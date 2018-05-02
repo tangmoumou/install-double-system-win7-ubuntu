@@ -4,6 +4,7 @@ first system is win7
 use ultraiso and easybcd make usb system disk
 
 download from https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/16.04.4/
+notice:desktop version is different from sever veersion
 
 the way use ultraiso make usb system disk is baidu,very easy.
 
